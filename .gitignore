@@ -1,0 +1,7 @@
+node_modules/
+.env/
+model/
+*.pickle
+*.pkl
+__pycache__/
+.parcel-cache/
